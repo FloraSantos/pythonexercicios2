@@ -1,4 +1,4 @@
-# Exercicios de Python
+# Exercicios de Python parte 2
 
 > Este é um projeto desenvolvido para praticar conceitos fundamentais de Python.
 
